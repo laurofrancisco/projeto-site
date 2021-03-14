@@ -11,6 +11,6 @@ main{
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 20px;
-    box-shadow: 3px 3px 5px rgba(124, 111, 111, 0.438)
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(124, 111, 111, 0.473)
 }
